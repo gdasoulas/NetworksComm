@@ -1,0 +1,9 @@
+Total data received	: 306000 Bytes
+Total packets received	: 300
+CBR start		: 0,250000000
+CBR end 		: 6,231732182
+Mean CBR packet delay	: 0,001749 sec
+Routing start		: 0,250000000
+Routing end		: 0,254308424
+Routing delay		: 0,004308 sec
+Utilisation 		: 0,037204

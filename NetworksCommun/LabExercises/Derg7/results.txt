@@ -1,0 +1,4 @@
+received packets from flow 1: 120
+received packets from flow 2: 120
+finishing time for packet transfer from flow 1: 1
+finishing time for packet transfer from flow 2: 2
